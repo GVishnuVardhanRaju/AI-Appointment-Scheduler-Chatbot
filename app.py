@@ -20,8 +20,8 @@ if len(sys.argv) >= 3:
     logged_in_user = sys.argv[2]
 
 # ================= SMTP CONFIG ================= #
-SMTP_EMAIL = "thundervardhan@gmail.com"
-SMTP_PASSWORD = "tqpj cymu vhpc dxgs"
+SMTP_EMAIL = "your@gmail.com"
+SMTP_PASSWORD = "your app password"
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 
